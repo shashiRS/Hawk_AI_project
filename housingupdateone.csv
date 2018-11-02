@@ -1,0 +1,584 @@
+contact_persons_id,parking,property_type,city,area,number_of_toilets,coordinates,contact_persons_name,show_loan_option,price,status,ad_id,gym,lift,locality,date_added,street_info,per_sqft_rate,url,apartment_type,gas_pipeline,number_of_bedrooms,facing,swimming_pool,micro_locality,profile_uuid,title
+1,True,Independent Floor,Bangalore,2160,3,"12.918255,77.63388",Sandeep S,False,2.0 Cr,ACTIVE,1410965,True,True,HSR Layout,2017-03-04T15:38:14Z,"6th Cross Road 6th Main, Near Asian Specialty Hospital, S T Bed Layout",9259,/in/buy/resale/page/1410965-4-bhk-independent-floor-in-hsr-layout-for-rs-20000000,4 BHK,False,4,south,False,Teachers Colony,6b6d9a73-dbce-400d-b781-d6fa4c4226b1,4 BHK Independent Floor
+1,True,Apartment,Bangalore,5760,5,"12.91652,77.648861",Anil Kumar,True,6.8 Cr,ACTIVE,1348807,True,True,HSR Layout,2017-01-29T10:26:35Z,"24th Main Road, Near Cambridge Public School, Sector 1",11805,/in/buy/resale/page/1348807-4-bhk-apartment-in-hsr-layout-for-rs-68000000,4 BHK,False,4,south-east,True,Sector 1,28ea64a4-303d-47f1-8208-922cddf17ca5,4 BHK Apartment
+1,True,Apartment,Bangalore,1720,2,"12.91131,77.650147",Sunil Kumar,True,1.35 Cr,ACTIVE,1420456,False,True,HSR Layout,2017-03-09T15:32:36Z,"18th Cross Road, Near Faaso''s, 2nd Sector",7848,/in/buy/resale/page/1420456-3-bhk-apartment-in-hsr-layout-for-rs-13500000,3 BHK,False,3,east,False,Sector 2,7ba2e80c-7b66-42aa-9f01-a83468d0a2c9,3 BHK Apartment
+2,True,Independent Floor,Bangalore,2400,1,"12.918124,77.633645",Mohammed Isaq,True,2.5 Cr,ACTIVE,139517,False,False,HSR Layout,2015-02-06T16:00:00Z,"5th Main Road, 1st Avenue Road, Near New Sapna Stores, Teachers Colony, 5th Sector",10416,/in/buy/resale/page/139517-2-bhk-independent-floor-in-hsr-layout-for-rs-25000000,2 BHK,False,2,south,False,Teachers Colony,af85d0ad-b8c7-4342-805a-f01758bab569,2 BHK Independent Floor
+2,False,Apartment,Bangalore,1400,1,"12.901786,77.643413",Anand G,True,72.0 Lacs,ACTIVE,1850477,True,False,HSR Layout,2018-01-29T11:53:41Z,", 6th Main Rd, Iti Layout, Sector 7, Hsr Layout, Bengaluru, Karnataka 560068, India",5142,/in/buy/resale/page/1850477-3-bhk-apartment-in-hsr-layout-for-rs-7200000,3 BHK,True,3,east,,Hosapalya,e34ed331-67b7-4026-8a26-4991d56c2596,3 BHK Apartment
+2,False,Independent House,Bangalore,2750,5,"12.918231,77.667525",M V Devraj,True,2.4 Cr,ACTIVE,1809162,True,False,HSR Layout,2018-01-02T09:57:00Z,Amblipura,8727,/in/buy/resale/page/1809162-4-bhk-independent-house-in-hsr-layout-for-rs-24000000,4 BHK,,4,south-east,True,Sector 1,a6688f64-d972-4804-938a-80bce6c1e822,4 BHK Independent House
+2,False,Apartment,Bangalore,1285,1,"12.897018,77.655779",Vijay G,True,67.5 Lacs,ACTIVE,2016709,,False,HSR Layout,2018-05-17T10:35:42Z,Near Vibgyor High Schoo,5252,/in/buy/resale/page/2016709-2-bhk-apartment-in-somasundarapalya-for-rs-6750000,2 BHK,,2,,,,fa3d0d1d-476a-42f8-a207-b6de000e811c,2 BHK Apartment
+2,True,Apartment,Bangalore,1180,2,"12.912919,77.664741",P Rajesh,True,60.0 Lacs,ACTIVE,1685375,True,False,HSR Layout,2017-10-14T16:27:32Z,"Harlur Main Road, Near Icici Bank Atm, Bellendur",5084,/in/buy/resale/page/1685375-2-bhk-apartment-in-hsr-layout-for-rs-6000000,2 BHK,False,2,east,False,Sector 1,a34f0e07-a3e0-4cd1-ae6a-bb4933f647fb,2 BHK Apartment
+2,True,Apartment,Bangalore,1817,3,"12.914919,77.664505",Priya,True,97.0 Lacs,ACTIVE,721897,True,True,HSR Layout,2016-01-07T17:33:57Z,"Off Harlur Road, Near Hp Petrol Pump, Haralur",5338,/in/buy/resale/page/721897-3-bhk-apartment-in-hsr-layout-for-rs-9700000,3 BHK,True,3,south,True,Sector 1,1227511d-679b-43de-8863-d787921e22fe,3 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,True,Apartment,Bangalore,1168,2,"12.917042,77.63394",karthick,True,79.61 Lacs,ACTIVE,1127632,True,True,HSR Layout,2016-09-22T00:06:12Z,"6th Main Road, Near Apollo Pharmacy, Teacher's Colonyy",6816,/in/buy/resale/page/1127632-2-bhk-apartment-in-hsr-layout-for-rs-7961088,2 BHK,False,2,north,True,Teachers Colony,399c59b3-d7e9-4d15-aa78-84e7d6ff609e,2 BHK Apartment
+2,True,Apartment,Bangalore,1206,2,"12.917042,77.63394",karthick,True,82.2 Lacs,ACTIVE,1121106,True,True,HSR Layout,2016-09-18T01:04:18Z,"6th Main Road, Near Apollo Pharmacy, Teacher's Colonyy",6816,/in/buy/resale/page/1121106-2-bhk-apartment-in-hsr-layout-for-rs-8220096,2 BHK,False,2,west,True,Teachers Colony,399c59b3-d7e9-4d15-aa78-84e7d6ff609e,2 BHK Apartment
+2,False,Apartment,Bangalore,1070,2,"12.91973,77.633844",Naidu,True,65.0 Lacs,ACTIVE,1884433,,False,HSR Layout,2018-02-28T14:10:05Z,Near Police Park,6074,/in/buy/resale/page/1884433-2-bhk-apartment-in-hsr-layout-for-rs-6500000,2 BHK,,0,,,Teachers Colony,be15a14f-e645-4d24-ae50-a6180d331ca9,2 BHK Apartment
+2,False,Apartment,Bangalore,1400,3,"12.89597,77.656881",Parvathi Umesh,True,65.0 Lacs,ACTIVE,1881526,,False,HSR Layout,2018-02-27T15:06:05Z,"Reliable Tranquil Layout, Bengaluru, Karnataka 560068, India",4642,/in/buy/resale/page/1881526-3.5-bhk-apartment-in-somasundarapalya-for-rs-6500000,3.5 BHK,,4,east,,,c46503cd-7498-48d9-bc8b-3adaf65799db,3.5 BHK Apartment
+2,True,Apartment,Bangalore,1665,3,"12.904304,77.647889",Saurabh ,True,1.1 Cr,ACTIVE,132797,True,True,HSR Layout,2015-03-28T10:28:23Z,"27th Cross Road, Near Easy Buy Mall,royal Housing Society, Garden Layout, Sector- 2",6606,/in/buy/resale/page/132797-3-bhk-apartment-in-hsr-layout-for-rs-11000000,3 BHK,False,3,north,True,Sector 2,e4174ab1-3778-4af6-9e13-e9b13dbebd61,3 BHK Apartment
+2,True,Apartment,Bangalore,1602,2,"12.900611,77.648389",Veerash,True,75.0 Lacs,ACTIVE,80116,True,True,HSR Layout,2017-04-28T16:51:03Z,"24th Main Road, Near Brigade Opticals, Iti Layout, Sector 2",4681,/in/buy/resale/page/80116-3-bhk-apartment-in-hsr-layout-for-rs-7500000,3 BHK,False,3,north,True,Sector 7,02dd53a8-0eee-4dce-8614-b2fc275cea67,3 BHK Apartment
+2,True,Apartment,Bangalore,1251,2,"12.91692,77.633911",Lavanya,True,85.0 Lacs,ACTIVE,1414135,True,True,HSR Layout,2017-03-06T18:53:34Z,"4th Avenue Road, Near Aditya Medicals & General Store, Teacher's Colony",6794,/in/buy/resale/page/1414135-2-bhk-apartment-in-hsr-layout-for-rs-8500000,2 BHK,False,2,west,True,Teachers Colony,32143a8e-aa5d-4233-a539-738967c946de,2 BHK Apartment
+2,True,Apartment,Bangalore,1168,2,"12.91692,77.633911",Lavanya,True,81.0 Lacs,ACTIVE,1414183,True,True,HSR Layout,2017-03-06T19:02:45Z,"4th Avenue Road, Near Aditya Medicals & General Store, Teacher's Colony",6934,/in/buy/resale/page/1414183-2-bhk-apartment-in-hsr-layout-for-rs-8100000,2 BHK,False,2,north,True,Teachers Colony,32143a8e-aa5d-4233-a539-738967c946de,2 BHK Apartment
+2,True,Apartment,Bangalore,1206,2,"12.91692,77.633911",Lavanya,True,70.0 Lacs,ACTIVE,1413781,True,True,HSR Layout,2017-03-06T17:41:32Z,"4th Avenue Road, Near Aditya Medicals & General Store, Teacher's Colony",5804,/in/buy/resale/page/1413781-2-bhk-apartment-in-hsr-layout-for-rs-7000000,2 BHK,False,2,north-west,True,Teachers Colony,32143a8e-aa5d-4233-a539-738967c946de,2 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,True,Apartment,Bangalore,1817,3,"12.914296,77.663411",Gauri Mathur,False,1.1 Cr,ACTIVE,1485027,True,False,HSR Layout,2017-04-05T17:04:10Z,"Harulur Main Road, Near The Fisherman''s Wharf, Ambalipura",6053,/in/buy/resale/page/1485027-3-bhk-apartment-in-hsr-layout-for-rs-11000000,3 BHK,True,3,south,True,Sector 1,b1644c99-fdc2-4e26-b825-c3d753156d8f,3 BHK Apartment
+2,True,Apartment,Bangalore,1168,2,"12.917042,77.63394",karthick,True,79.61 Lacs,ACTIVE,1120894,True,True,HSR Layout,2016-09-18T00:19:13Z,"6th Main Road, Near Apollo Pharmacy, Teacher's Colonyy",6816,/in/buy/resale/page/1120894-2-bhk-apartment-in-hsr-layout-for-rs-7961088,2 BHK,False,2,north,True,Teachers Colony,399c59b3-d7e9-4d15-aa78-84e7d6ff609e,2 BHK Apartment
+2,True,Apartment,Bangalore,2750,4,"12.91437,77.663722",Vishram Bhagwat,True,1.42 Cr,ACTIVE,1082367,True,True,HSR Layout,2016-08-28T04:53:35Z,"Off Harlur Road, Near Maruti Driving School, Haralur",5163,/in/buy/resale/page/1082367-4-bhk-apartment-in-hsr-layout-for-rs-14200000,4 BHK,False,4,north,True,Sector 1,4b5b2447-2d21-4422-819d-7aed90514dc4,4 BHK Apartment
+2,False,Apartment,Bangalore,1150,2,"12.923428,77.637445",Kameshwari S,True,90.0 Lacs,ACTIVE,1496007,True,False,HSR Layout,2017-04-08T17:11:05Z,"3rd Main Road, Near Dhanlakshmi Provision Store, Jakkasandra",7826,/in/buy/resale/page/1496007-2-bhk-apartment-in-hsr-layout-for-rs-9000000,2 BHK,False,2,west,False,Jakkasandra,99ab21b5-6e27-4b1d-bde4-84ba01ae507e,2 BHK Apartment
+2,True,Apartment,Bangalore,1206,2,"12.917042,77.63394",karthick,True,82.2 Lacs,ACTIVE,1127415,True,True,HSR Layout,2016-09-22T00:03:59Z,"6th Main Road, Near Apollo Pharmacy, Teacher's Colonyy",6816,/in/buy/resale/page/1127415-2-bhk-apartment-in-hsr-layout-for-rs-8220096,2 BHK,False,2,north-west,True,Teachers Colony,399c59b3-d7e9-4d15-aa78-84e7d6ff609e,2 BHK Apartment
+2,True,Apartment,Bangalore,1206,2,"12.916863,77.633985",karthick,True,82.2 Lacs,ACTIVE,1127318,True,True,HSR Layout,2016-09-21T23:40:53Z,"6th Main Road, Near Apollo Pharmacy, Hsr Layout 5th Sector",6816,/in/buy/resale/page/1127318-2-bhk-apartment-in-hsr-layout-for-rs-8220096,2 BHK,False,2,west,True,Teachers Colony,399c59b3-d7e9-4d15-aa78-84e7d6ff609e,2 BHK Apartment
+2,True,Apartment,Bangalore,1345,2,"12.917042,77.63394",karthick,True,91.68 Lacs,ACTIVE,1120862,True,True,HSR Layout,2016-09-18T00:15:23Z,"6th Main Road, Near Apollo Pharmacy, Teacher's Colonyy",6816,/in/buy/resale/page/1120862-2-bhk-apartment-in-hsr-layout-for-rs-9167520,2 BHK,False,2,west,True,Teachers Colony,399c59b3-d7e9-4d15-aa78-84e7d6ff609e,2 BHK Apartment
+2,True,Apartment,Bangalore,1168,2,"12.917042,77.63394",karthick,True,79.61 Lacs,ACTIVE,1121017,True,True,HSR Layout,2016-09-18T00:34:16Z,"6th Main Road, Near Apollo Pharmacy, Teacher's Colonyy",6816,/in/buy/resale/page/1121017-2-bhk-apartment-in-hsr-layout-for-rs-7961088,2 BHK,False,2,north-east,True,Teachers Colony,399c59b3-d7e9-4d15-aa78-84e7d6ff609e,2 BHK Apartment
+2,True,Apartment,Bangalore,1251,2,"12.917042,77.63394",karthick,True,85.27 Lacs,ACTIVE,1121146,True,True,HSR Layout,2016-09-18T00:46:41Z,"6th Main Road, Near Apollo Pharmacy, Teacher's Colonyy",6816,/in/buy/resale/page/1121146-2-bhk-apartment-in-hsr-layout-for-rs-8526816,2 BHK,False,2,west,True,Teachers Colony,399c59b3-d7e9-4d15-aa78-84e7d6ff609e,2 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,True,Apartment,Bangalore,1345,2,"12.91692,77.633911",Lavanya,True,91.0 Lacs,ACTIVE,1414063,True,True,HSR Layout,2017-03-06T18:42:08Z,"4th Avenue Road, Near Aditya Medicals & General Store, Teacher's Colony",6765,/in/buy/resale/page/1414063-2-bhk-apartment-in-hsr-layout-for-rs-9100000,2 BHK,False,2,west,True,Teachers Colony,32143a8e-aa5d-4233-a539-738967c946de,2 BHK Apartment
+1,True,Apartment,Bangalore,1804,3,"12.900409,77.654474",chandan tumulu,True,1.4 Cr,ACTIVE,1917208,True,False,HSR Layout,2018-03-17T17:56:56Z,"27th Main Road, Near Chinmaya Vidya Mandira Sslc And Svr Public School Icse, Hsr 2nd Sector",7760,/in/buy/resale/page/1917208-3-bhk-apartment-in-harlur-for-rs-14000000,3 BHK,False,3,east,True,Sector 1,85aa51af-8a88-4a41-871b-38aa1a24d003,3 BHK Apartment
+1,False,Apartment,Bangalore,1804,5,"12.901465,77.653429",chandan tumulu,True,1.4 Cr,ACTIVE,1916079,True,False,HSR Layout,2018-03-21T09:25:03Z,"27th Main Road, Near Ravindra Bharathi Global School, Hsr Layout 27th Main Road",7760,/in/buy/resale/page/1916079-3-bhk-apartment-in-harlur-for-rs-14000000,3 BHK,True,3,east,True,Sector 1,85aa51af-8a88-4a41-871b-38aa1a24d003,3 BHK Apartment
+1,True,Apartment,Bangalore,1106,2,"12.90778,77.663383",ramesh,True,56.41 Lacs,ACTIVE,1342776,True,True,HSR Layout,2017-01-25T19:14:49Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1342776-2-bhk-apartment-in-hsr-layout-for-rs-5640600,2 BHK,False,2,south-east,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1039,2,"12.90778,77.663383",ramesh,True,52.99 Lacs,ACTIVE,1346701,True,True,HSR Layout,2017-01-28T14:34:25Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1346701-2-bhk-apartment-in-hsr-layout-for-rs-5298900,2 BHK,False,2,north,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,True,Apartment,Bangalore,1021,2,"12.90778,77.663383",ramesh,True,52.07 Lacs,ACTIVE,1342932,True,True,HSR Layout,2017-01-25T19:44:28Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1342932-2-bhk-apartment-in-hsr-layout-for-rs-5207100,2 BHK,False,2,north,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+2,True,Independent House,Bangalore,2374,4,"12.919627,77.634355",Venkatswamy,True,1.33 Cr,ACTIVE,155588,False,False,HSR Layout,2015-03-05T16:46:08Z,"8th Cross Road, 2nd Main Road, Near Government School, Venkatapura, Koramangala 1st Block",5602,/in/buy/resale/page/155588-4-bhk-independent-house-in-hsr-layout-for-rs-13300000,4 BHK,False,4,east,False,Teachers Colony,32ee0602-a1f3-4ce6-9b39-9ba28944d730,4 BHK Independent House
+1,True,Apartment,Bangalore,1750,3,"12.918624,77.644037",Prashant,True,1.4 Cr,ACTIVE,1408752,False,True,HSR Layout,2017-03-04T13:08:20Z,"18th Main Road, Near Bmtc Bus Depot Agara, Sector 4",8000,/in/buy/resale/page/1408752-3-bhk-apartment-in-hsr-layout-for-rs-14000000,3 BHK,False,3,north,False,Sector 4,154ddd4e-1df7-4185-b149-64e11c08fc70,3 BHK Apartment
+1,True,Apartment,Bangalore,1750,3,"12.918624,77.644037",Prashant,True,1.4 Cr,ACTIVE,1408817,False,True,HSR Layout,2017-03-04T13:08:40Z,"18th Main Road, Near Bmtc Bus Depot Agara, Sector 4",8000,/in/buy/resale/page/1408817-3-bhk-apartment-in-hsr-layout-for-rs-14000000,3 BHK,False,3,north,False,Sector 4,154ddd4e-1df7-4185-b149-64e11c08fc70,3 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,False,Apartment,Bangalore,1750,3,"12.906697,77.632479",Mr.abhishek ,True,1.45 Cr,ACTIVE,1499935,True,False,HSR Layout,2017-04-10T17:39:39Z,"27th Cross Road, Near Ramakrishna College, Sector 7",8285,/in/buy/resale/page/1499935-3-bhk-apartment-in-hsr-layout-for-rs-14500000,3 BHK,False,3,south-east,True,Rajiv Gandhi Nagar,dea7482e-13aa-4aeb-9d9d-fe068a570f7c,3 BHK Apartment
+2,False,Apartment,Bangalore,1255,3,"12.909319,77.662695",Vishal,True,1.1 Cr,ACTIVE,1500313,True,False,HSR Layout,2017-04-10T18:03:01Z,"Haralur Road, Near Vivero International Preschool, Sector 1",8764,/in/buy/resale/page/1500313-3-bhk-apartment-in-hsr-layout-for-rs-11000000,3 BHK,False,3,north,True,Sector 1,a78306b2-7b32-43d1-96c0-081434dcd85e,3 BHK Apartment
+1,True,Apartment,Bangalore,1720,2,"12.91131,77.650147",Sunil Kumar,True,1.35 Cr,ACTIVE,1420642,False,True,HSR Layout,2017-03-09T16:27:27Z,"18th Cross Road, Near Faaso''s, 2nd Sector",7848,/in/buy/resale/page/1420642-3-bhk-apartment-in-hsr-layout-for-rs-13500000,3 BHK,False,3,east,False,Sector 2,7ba2e80c-7b66-42aa-9f01-a83468d0a2c9,3 BHK Apartment
+1,True,Apartment,Bangalore,1720,2,"12.91131,77.650147",Sunil Kumar,True,1.35 Cr,ACTIVE,1420570,False,True,HSR Layout,2017-03-09T16:11:43Z,"18th Cross Road, Near Faaso''s, 2nd Sector",7848,/in/buy/resale/page/1420570-3-bhk-apartment-in-hsr-layout-for-rs-13500000,3 BHK,False,3,east,False,Sector 2,7ba2e80c-7b66-42aa-9f01-a83468d0a2c9,3 BHK Apartment
+1,True,Apartment,Bangalore,1145,2,"12.907473,77.649685",Sunil Kumar,True,75.0 Lacs,ACTIVE,1420379,False,True,HSR Layout,2017-03-09T14:56:09Z,"24th Main Road, Near Food Palace Super Market, Sector 2 Hsr Layout",6550,/in/buy/resale/page/1420379-2-bhk-apartment-in-hsr-layout-for-rs-7500000,2 BHK,False,2,east,False,BDA Layout,7ba2e80c-7b66-42aa-9f01-a83468d0a2c9,2 BHK Apartment
+1,True,Apartment,Bangalore,1720,2,"12.91131,77.650147",Sunil Kumar,True,1.35 Cr,ACTIVE,1420479,False,True,HSR Layout,2017-03-09T15:54:31Z,"18th Cross Road, Near Faaso''s, 2nd Sector",7848,/in/buy/resale/page/1420479-3-bhk-apartment-in-hsr-layout-for-rs-13500000,3 BHK,False,3,east,False,Sector 2,7ba2e80c-7b66-42aa-9f01-a83468d0a2c9,3 BHK Apartment
+1,True,Independent Floor,Bangalore,2160,3,"12.918255,77.63388",Sandeep S,False,2.0 Cr,ACTIVE,1410978,True,True,HSR Layout,2017-03-04T15:48:36Z,"6th Cross Road, 6th Main, Near Asian Specialty Hospital, S T Bed Layout",9259,/in/buy/resale/page/1410978-4-bhk-independent-floor-in-hsr-layout-for-rs-20000000,4 BHK,False,4,south,False,Teachers Colony,6b6d9a73-dbce-400d-b781-d6fa4c4226b1,4 BHK Independent Floor
+1,True,Apartment,Bangalore,5915,5,"12.91652,77.648861",Anil Kumar,True,6.8 Cr,ACTIVE,1348901,True,True,HSR Layout,2017-01-29T10:46:10Z,"24th Main Road, Near Ganesh Medicals, Sector 1",11496,/in/buy/resale/page/1348901-4-bhk-apartment-in-hsr-layout-for-rs-68000000,4 BHK,False,4,north,True,Sector 1,28ea64a4-303d-47f1-8208-922cddf17ca5,4 BHK Apartment
+1,True,Apartment,Bangalore,1720,2,"12.91131,77.650147",Sunil Kumar,True,1.35 Cr,ACTIVE,1420409,False,True,HSR Layout,2017-03-09T15:13:06Z,"18th Cross Road, Near Faaso''s, 2nd Sector",7848,/in/buy/resale/page/1420409-3-bhk-apartment-in-hsr-layout-for-rs-13500000,3 BHK,False,3,east,False,Sector 2,7ba2e80c-7b66-42aa-9f01-a83468d0a2c9,3 BHK Apartment
+,,,,,,,,,,,,,,,,,4500,,,,,,,,,
+,,,,,,,,,,,,,,,,,3890,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,False,Apartment,Bangalore,1140,2,"12.897744,77.655523",Vijay,True,59.14 Lacs,ACTIVE,1763500,True,False,HSR Layout,2017-12-06T08:59:33Z,"3rd Cross Road, Near Vibgyor High School - New Building, 2nd Sector",5187,/in/buy/resale/page/1763500-2-bhk-apartment-in-somasundarapalya-for-rs-5914160,2 BHK,False,2,east,False,,43cb7a0b-c876-4106-848b-b78cb4edbb00,2 BHK Apartment
+2,False,Apartment,Bangalore,1508,3,"12.897603,77.655579",Vijay,True,80.0 Lacs,ACTIVE,1763589,True,False,HSR Layout,2017-12-06T08:59:19Z,"3rd Cross Road, Near Vibgyor High School - New Building, 2nd Sector",5305,/in/buy/resale/page/1763589-3-bhk-apartment-in-somasundarapalya-for-rs-8000000,3 BHK,False,3,west,False,,43cb7a0b-c876-4106-848b-b78cb4edbb00,3 BHK Apartment
+2,False,Apartment,Bangalore,1285,2,"12.897677,77.655474",Vijay,True,67.96 Lacs,ACTIVE,1763387,True,False,HSR Layout,2017-12-05T18:58:26Z,"3rd Cross Road, Near Vibgyor High School - New Building, 2nd Sector",5289,/in/buy/resale/page/1763387-2-bhk-apartment-in-somasundarapalya-for-rs-6796440,2 BHK,False,2,east,False,,43cb7a0b-c876-4106-848b-b78cb4edbb00,2 BHK Apartment
+2,False,Apartment,Bangalore,1140,2,"12.897705,77.655484",Vijay,True,59.14 Lacs,ACTIVE,1763545,True,False,HSR Layout,2017-12-06T08:59:26Z,"3rd Cross Road, Near Vibgyor High School - New Building, 2nd Sector",5187,/in/buy/resale/page/1763545-2-bhk-apartment-in-somasundarapalya-for-rs-5914160,2 BHK,False,2,east,False,,43cb7a0b-c876-4106-848b-b78cb4edbb00,2 BHK Apartment
+2,False,Apartment,Bangalore,1285,2,"12.897431,77.65536",Vijay,True,67.96 Lacs,ACTIVE,1763532,True,False,HSR Layout,2017-12-06T08:59:29Z,"3rd Cross Road, Near Vibgyor High School - New Building, 2nd Sector",5289,/in/buy/resale/page/1763532-2-bhk-apartment-in-somasundarapalya-for-rs-6796440,2 BHK,False,2,east,False,,43cb7a0b-c876-4106-848b-b78cb4edbb00,2 BHK Apartment
+2,False,Apartment,Bangalore,1140,2,"12.897778,77.655586",Vijay,True,59.14 Lacs,ACTIVE,1763563,True,False,HSR Layout,2017-12-06T08:59:24Z,"3rd Cross Road, Near Vibgyor High School - New Building, 2nd Sector",5187,/in/buy/resale/page/1763563-2-bhk-apartment-in-somasundarapalya-for-rs-5914160,2 BHK,False,2,east,False,,43cb7a0b-c876-4106-848b-b78cb4edbb00,2 BHK Apartment
+2,False,Apartment,Bangalore,1428,3,"12.897647,77.655499",Vijay,True,75.8 Lacs,ACTIVE,1763573,True,False,HSR Layout,2017-12-06T08:59:22Z,"3rd Cross Road, Near Vibgyor High School - New Building, 2nd Sector",5308,/in/buy/resale/page/1763573-3-bhk-apartment-in-somasundarapalya-for-rs-7580000,3 BHK,False,3,east,False,,43cb7a0b-c876-4106-848b-b78cb4edbb00,3 BHK Apartment
+2,False,Apartment,Bangalore,1285,2,"12.897674,77.655549",Vijay,True,67.96 Lacs,ACTIVE,1763443,True,False,HSR Layout,2017-12-06T08:59:37Z,"3rd Cross Road, Near Vibgyor High School - New Building, 2nd Sector",5289,/in/buy/resale/page/1763443-2-bhk-apartment-in-somasundarapalya-for-rs-6796440,2 BHK,False,2,east,False,,43cb7a0b-c876-4106-848b-b78cb4edbb00,2 BHK Apartment
+,,,,,,,,,,,,,,,,,6035,,,,,,,,,
+2,True,Apartment,Bangalore,1050,2,"12.920328,77.6331",Ramanathan,True,45.0 Lacs,ACTIVE,305428,False,True,HSR Layout,2015-06-27T10:30:22Z,"Venkatapura Main Road, Near Sri Udupi Upahara, Teachers Colony",4285,/in/buy/resale/page/305428-3-bhk-apartment-in-hsr-layout-for-rs-4500000,3 BHK,False,3,east,False,Teachers Colony,cc45ec5f-cb13-4fa7-809c-98ef4b89beb2,3 BHK Apartment
+,,,,,,,,,,,,,,,,,5926,,,,,,,,,
+,,,,,,,,,,,,,,,,,14438,,,,,,,,,
+,,,,,,,,,,,,,,,,,5600,,,,,,,,,
+,,,,,,,,,,,,,,,,,5099,,,,,,,,,
+,,,,,,,,,,,,,,,,,5706,,,,,,,,,
+,,,,,,,,,,,,,,,,,5400,,,,,,,,,
+,,,,,,,,,,,,,,,,,5000,,,,,,,,,
+,,,,,,,,,,,,,,,,,4199,,,,,,,,,
+,,,,,,,,,,,,,,,,,5800,,,,,,,,,
+,,,,,,,,,,,,,,,,,5950,,,,,,,,,
+,,,,,,,,,,,,,,,,,7400,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,6562,,,,,,,,,
+,,,,,,,,,,,,,,,,,6429,,,,,,,,,
+,,,,,,,,,,,,,,,,,3999,,,,,,,,,
+,,,,,,,,,,,,,,,,,5706,,,,,,,,,
+,,,,,,,,,,,,,,,,,1550,,,,,,,,,
+,,,,,,,,,,,,,,,,,5167,,,,,,,,,
+,,,,,,,,,,,,,,,,,5000,,,,,,,,,
+1,False,Independent House,Bangalore,3000,0,"12.908136,77.647608",Prathap,True,4.5 Cr,ACTIVE,2016478,,False,HSR Layout,2018-05-16T15:17:37Z,"Hsr Layout, Bengaluru, Karnataka, India",15000,/in/buy/resale/page/2016478-3-bhk-independent-house-in-hsr-layout-for-rs-45000000,3 BHK,,0,,,Sector 2,991f6994-0ac2-4699-b565-bddb9b4c412e,3 BHK Independent House
+1,False,Apartment,Bangalore,850,1,"12.896797,77.657222",Dhanesh Mali,True,64.0 Lacs,ACTIVE,2012797,False,False,HSR Layout,2018-05-14T11:14:12Z,Near Budding World,7529,/in/buy/resale/page/2012797-2-bhk-apartment-in-somasundarapalya-for-rs-6400000,2 BHK,False,2,north,False,,1f9fa9fb-d6da-4cef-bd58-2183b8677658,2 BHK Apartment
+1,True,Apartment,Bangalore,1578,3,"12.902579,77.647613",Bharadwaj,True,1.2 Cr,ACTIVE,1861547,True,True,HSR Layout,2018-02-09T11:36:27Z,"24th Main Rd, Iti Layout, Sector 2, Hsr Layout, Bengaluru, Karnataka 560102, India",7604,/in/buy/resale/page/1861547-3-bhk-apartment-in-hsr-layout-for-rs-12000000,3 BHK,True,3,east,True,Sector 2,31d88ea5-4f1d-4c76-904a-f23aafad339f,3 BHK Apartment
+1,False,Apartment,Bangalore,1195,3,"12.911921,77.644609",Tg Lakshminath ,True,76.0 Lacs,ACTIVE,2007939,,False,HSR Layout,2018-05-10T18:13:49Z,"Sector 3, Hsr Layout, Bengaluru, Karnataka 560102, India",6359,/in/buy/resale/page/2007939-3-bhk-apartment-in-hsr-layout-for-rs-7600000,3 BHK,,3,east,,Sector 3,4e062c60-8c89-451c-bfea-184fbaa8f08b,3 BHK Apartment
+1,False,Independent House,Bangalore,2200,0,"12.908529,77.643035",Dhanush,True,5.2 Cr,ACTIVE,1865435,,False,HSR Layout,2018-02-13T12:43:23Z,", 18th Main Rd, Sector 3, Hsr Layout, Bengaluru, Karnataka 560102, India",23636,/in/buy/resale/page/1865435-4-bhk-independent-house-in-hsr-layout-for-rs-52000000,4 BHK,,4,,,Sector 3,5326e968-97b6-4cd6-b64b-eeaa9e8d8771,4 BHK Independent House
+1,True,Apartment,Bangalore,1750,3,"12.918624,77.644037",Prashant,True,1.4 Cr,ACTIVE,1408752,False,True,HSR Layout,2017-03-04T13:08:20Z,"18th Main Road, Near Bmtc Bus Depot Agara, Sector 4",8000,/in/buy/resale/page/1408752-3-bhk-apartment-in-hsr-layout-for-rs-14000000,3 BHK,False,3,north,False,Sector 4,154ddd4e-1df7-4185-b149-64e11c08fc70,3 BHK Apartment
+1,True,Apartment,Bangalore,1750,3,"12.918624,77.644037",Prashant,True,1.4 Cr,ACTIVE,1408817,False,True,HSR Layout,2017-03-04T13:08:40Z,"18th Main Road, Near Bmtc Bus Depot Agara, Sector 4",8000,/in/buy/resale/page/1408817-3-bhk-apartment-in-hsr-layout-for-rs-14000000,3 BHK,False,3,north,False,Sector 4,154ddd4e-1df7-4185-b149-64e11c08fc70,3 BHK Apartment
+1,True,Apartment,Bangalore,1010,2,"12.90778,77.663383",ramesh,True,51.51 Lacs,ACTIVE,1345948,True,True,HSR Layout,2017-01-27T20:53:56Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1345948-2-bhk-apartment-in-hsr-layout-for-rs-5151000,2 BHK,False,2,south-east,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1106,2,"12.90778,77.663383",ramesh,True,56.41 Lacs,ACTIVE,1342387,True,True,HSR Layout,2017-01-25T18:06:23Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1342387-2-bhk-apartment-in-hsr-layout-for-rs-5640600,2 BHK,False,2,east,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1005,2,"12.90778,77.663383",ramesh,True,51.26 Lacs,ACTIVE,1346717,True,True,HSR Layout,2017-01-28T14:33:40Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1346717-2-bhk-apartment-in-hsr-layout-for-rs-5125500,2 BHK,False,2,north,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1021,2,"12.90778,77.663383",ramesh,True,52.07 Lacs,ACTIVE,1342520,True,True,HSR Layout,2017-01-25T18:31:08Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1342520-2-bhk-apartment-in-hsr-layout-for-rs-5207100,2 BHK,False,2,north-east,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1044,2,"12.90778,77.663383",ramesh,True,53.24 Lacs,ACTIVE,1342174,True,True,HSR Layout,2017-01-25T17:28:51Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1342174-2-bhk-apartment-in-hsr-layout-for-rs-5324400,2 BHK,False,2,north,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1021,2,"12.90778,77.663383",ramesh,True,52.07 Lacs,ACTIVE,1342239,True,True,HSR Layout,2017-01-25T17:38:37Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1342239-2-bhk-apartment-in-hsr-layout-for-rs-5207100,2 BHK,False,2,north-east,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,3778,,,,,,,,,
+,,,,,,,,,,,,,,,,,4750,,,,,,,,,
+,,,,,,,,,,,,,,,,,3450,,,,,,,,,
+,,,,,,,,,,,,,,,,,5070,,,,,,,,,
+,,,,,,,,,,,,,,,,,11000,,,,,,,,,
+,,,,,,,,,,,,,,,,,3999,,,,,,,,,
+1,True,Apartment,Bangalore,1010,2,"12.90778,77.663383",ramesh,True,51.51 Lacs,ACTIVE,1346057,True,True,HSR Layout,2017-01-27T21:47:52Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1346057-2-bhk-apartment-in-hsr-layout-for-rs-5151000,2 BHK,False,2,south-east,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1000,2,"12.90778,77.663383",ramesh,True,51.0 Lacs,ACTIVE,1346759,True,True,HSR Layout,2017-01-28T14:51:36Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1346759-2-bhk-apartment-in-hsr-layout-for-rs-5100000,2 BHK,False,2,north,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1162,2,"12.90778,77.663383",ramesh,True,59.26 Lacs,ACTIVE,1342605,True,True,HSR Layout,2017-01-25T18:47:01Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1342605-2-bhk-apartment-in-hsr-layout-for-rs-5926200,2 BHK,False,2,north-east,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+2,False,Apartment,Bangalore,1602,2,"12.900716,77.647934",Veeraesh,True,70.0 Lacs,ACTIVE,2004826,True,False,HSR Layout,2018-05-10T11:52:35Z,Near Hamilton Bailey Hospital,4369,/in/buy/resale/page/2004826-3-bhk-apartment-in-hsr-layout-for-rs-7000000,3 BHK,False,3,west,True,Sector 7,51007f49-8099-499b-a6f2-d42f679c8e6c,3 BHK Apartment
+2,True,Apartment,Bangalore,1300,2,"12.906199,77.640666",Harikrishna Reddy,True,89.0 Lacs,ACTIVE,323479,False,True,HSR Layout,2015-07-03T18:50:59Z,"1st Cross Road, Near Hsr Government School, Sector 3",6846,/in/buy/resale/page/323479-2-bhk-apartment-in-hsr-layout-for-rs-8900000,2 BHK,False,2,north,False,Sector 3,282999e8-39cd-4520-814d-a6aa0a393eaf,2 BHK Apartment
+2,False,Apartment,Bangalore,1428,3,"12.897717,77.655541",Vijay,True,75.89 Lacs,ACTIVE,1763407,True,False,HSR Layout,2017-12-05T19:06:48Z,"3rd Cross Road, Near Vibgyor High School - New Building, 2nd Sector",5314,/in/buy/resale/page/1763407-3-bhk-apartment-in-somasundarapalya-for-rs-7589120,3 BHK,False,3,east,False,,43cb7a0b-c876-4106-848b-b78cb4edbb00,3 BHK Apartment
+2,False,Apartment,Bangalore,1140,2,"12.897622,77.655525",Vijay,True,59.14 Lacs,ACTIVE,1763521,True,False,HSR Layout,2017-12-06T08:59:31Z,"3rd Cross Road, Near Vibgyor High School - New Building, 2nd Sector",5187,/in/buy/resale/page/1763521-2-bhk-apartment-in-somasundarapalya-for-rs-5914160,2 BHK,False,2,west,False,,43cb7a0b-c876-4106-848b-b78cb4edbb00,2 BHK Apartment
+2,False,Apartment,Bangalore,1508,3,"12.897375,77.655908",Vijay,True,79.92 Lacs,ACTIVE,1763473,True,False,HSR Layout,2017-12-06T08:59:35Z,"3rd Cross Road, Near Vibgyor High School - New Building, 2nd Sector",5299,/in/buy/resale/page/1763473-3-bhk-apartment-in-somasundarapalya-for-rs-7992320,3 BHK,False,3,west,False,,43cb7a0b-c876-4106-848b-b78cb4edbb00,3 BHK Apartment
+2,False,Apartment,Bangalore,1140,2,"12.897608,77.655493",Vijay,True,59.14 Lacs,ACTIVE,1763429,True,False,HSR Layout,2017-12-06T08:59:40Z,"3rd Cross Road, Near Vibgyor High School - New Building, 2nd Sector",5187,/in/buy/resale/page/1763429-2-bhk-apartment-in-somasundarapalya-for-rs-5914160,2 BHK,False,2,east,False,,43cb7a0b-c876-4106-848b-b78cb4edbb00,2 BHK Apartment
+,,,,,,,,,,,,,,,,,5750,,,,,,,,,
+,,,,,,,,,,,,,,,,,3600,,,,,,,,,
+,,,,,,,,,,,,,,,,,5000,,,,,,,,,
+,,,,,,,,,,,,,,,,,4100,,,,,,,,,
+,,,,,,,,,,,,,,,,,3571,,,,,,,,,
+,,,,,,,,,,,,,,,,,7950,,,,,,,,,
+1,True,Apartment,Bangalore,1162,2,"12.90778,77.663383",ramesh,True,59.26 Lacs,ACTIVE,1342981,True,True,HSR Layout,2017-01-25T19:53:55Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1342981-2-bhk-apartment-in-hsr-layout-for-rs-5926200,2 BHK,False,2,north,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1044,2,"12.90778,77.663383",ramesh,True,53.24 Lacs,ACTIVE,1342456,True,True,HSR Layout,2017-01-25T18:21:32Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1342456-2-bhk-apartment-in-hsr-layout-for-rs-5324400,2 BHK,False,2,north-east,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1750,3,"12.918624,77.644037",Prashant,True,1.4 Cr,ACTIVE,1408781,False,True,HSR Layout,2017-03-04T13:08:30Z,"18th Main Road, Near Bmtc Bus Depot Agara, Sector 4",8000,/in/buy/resale/page/1408781-3-bhk-apartment-in-hsr-layout-for-rs-14000000,3 BHK,False,3,north,False,Sector 4,154ddd4e-1df7-4185-b149-64e11c08fc70,3 BHK Apartment
+1,True,Apartment,Bangalore,1750,3,"12.918624,77.644037",Prashant,True,1.4 Cr,ACTIVE,1408833,False,True,HSR Layout,2017-03-04T13:08:59Z,"18th Main Road, Near Bmtc Bus Depot Agara, Sector 4",8000,/in/buy/resale/page/1408833-3-bhk-apartment-in-hsr-layout-for-rs-14000000,3 BHK,False,3,north,False,Sector 4,154ddd4e-1df7-4185-b149-64e11c08fc70,3 BHK Apartment
+1,True,Apartment,Bangalore,1750,3,"12.918624,77.644037",Prashant,True,1.4 Cr,ACTIVE,1408739,False,True,HSR Layout,2017-03-04T13:10:23Z,"18th Main Road, Near Bmtc Bus Depot Agara, Sector 4",8000,/in/buy/resale/page/1408739-3-bhk-apartment-in-hsr-layout-for-rs-14000000,3 BHK,False,3,north,False,Sector 4,154ddd4e-1df7-4185-b149-64e11c08fc70,3 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,True,Apartment,Bangalore,1162,2,"12.90778,77.663383",ramesh,True,59.26 Lacs,ACTIVE,1342309,True,True,HSR Layout,2017-01-25T17:48:23Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1342309-2-bhk-apartment-in-hsr-layout-for-rs-5926200,2 BHK,False,2,north,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1000,2,"12.90778,77.663383",ramesh,True,51.0 Lacs,ACTIVE,1345992,True,True,HSR Layout,2017-01-27T20:58:41Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1345992-2-bhk-apartment-in-hsr-layout-for-rs-5100000,2 BHK,False,2,north,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1010,2,"12.90778,77.663383",ramesh,True,51.51 Lacs,ACTIVE,1346057,True,True,HSR Layout,2017-01-27T21:47:52Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1346057-2-bhk-apartment-in-hsr-layout-for-rs-5151000,2 BHK,False,2,south-east,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1005,2,"12.90778,77.663383",ramesh,True,51.26 Lacs,ACTIVE,1345919,True,True,HSR Layout,2017-01-27T21:06:37Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1345919-2-bhk-apartment-in-hsr-layout-for-rs-5125500,2 BHK,False,2,south-west,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+1,True,Apartment,Bangalore,1000,2,"12.90778,77.663383",ramesh,True,51.0 Lacs,ACTIVE,1346759,True,True,HSR Layout,2017-01-28T14:51:36Z,"Haralur Road, Near Kanua, Ambalipura",5100,/in/buy/resale/page/1346759-2-bhk-apartment-in-hsr-layout-for-rs-5100000,2 BHK,False,2,north,False,Sector 1,bb2b190e-e5c3-4796-9efa-9fd65a3d959f,2 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,True,Apartment,Bangalore,1775,2,"12.905983,77.640734",Harikrishna Reddy,True,1.12 Cr,ACTIVE,326215,False,True,HSR Layout,2015-07-05T11:57:42Z,"26th Cross Road, Near Planet Fashion, Hsr Layout",6309,/in/buy/resale/page/326215-3-bhk-apartment-in-hsr-layout-for-rs-11200000,3 BHK,False,3,east,False,Sector 3,282999e8-39cd-4520-814d-a6aa0a393eaf,3 BHK Apartment
+2,True,Apartment,Bangalore,1300,2,"12.906199,77.640666",Harikrishna Reddy,True,89.0 Lacs,ACTIVE,323501,False,True,HSR Layout,2015-07-03T18:44:01Z,"1st Cross Road, Near Hsr Government School, Sector 3",6846,/in/buy/resale/page/323501-2-bhk-apartment-in-hsr-layout-for-rs-8900000,2 BHK,False,2,north,False,Sector 3,282999e8-39cd-4520-814d-a6aa0a393eaf,2 BHK Apartment
+2,True,Apartment,Bangalore,1775,3,"12.906199,77.640666",Harikrishna Reddy,True,1.12 Cr,ACTIVE,323613,False,True,HSR Layout,2015-07-03T18:47:55Z,"1st Cross Road, Near Hsr Government School, Sector 3",6309,/in/buy/resale/page/323613-3-bhk-apartment-in-hsr-layout-for-rs-11200000,3 BHK,False,3,east,False,Sector 3,282999e8-39cd-4520-814d-a6aa0a393eaf,3 BHK Apartment
+2,True,Apartment,Bangalore,1775,3,"12.906199,77.640666",Harikrishna Reddy,True,1.12 Cr,ACTIVE,323606,False,True,HSR Layout,2015-07-03T18:46:06Z,"1st Cross Road, Near Hsr Government School, Sector 3",6309,/in/buy/resale/page/323606-3-bhk-apartment-in-hsr-layout-for-rs-11200000,3 BHK,False,3,east,False,Sector 3,282999e8-39cd-4520-814d-a6aa0a393eaf,3 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,4700,,,,,,,,,
+,,,,,,,,,,,,,,,,,6490,,,,,,,,,
+,,,,,,,,,,,,,,,,,4950,,,,,,,,,
+,,,,,,,,,,,,,,,,,3850,,,,,,,,,
+,,,,,,,,,,,,,,,,,5300,,,,,,,,,
+,,,,,,,,,,,,,,,,,3650,,,,,,,,,
+,,,,,,,,,,,,,,,,,4300,,,,,,,,,
+,,,,,,,,,,,,,,,,,4390,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,True,Apartment,Bangalore,1070,3,"12.919795,77.633867",Naidu,True,60.0 Lacs,ACTIVE,57311,False,True,HSR Layout,2018-04-05T10:10:43Z,"8th Cross Road, Near Police Park, Teachers Colony, Hsr Colony",5607,/in/buy/resale/page/57311-2-bhk-apartment-in-hsr-layout-for-rs-6000000,2 BHK,False,2,north,False,Teachers Colony,11c68ca7-d49f-41bc-9ab0-f4ac0eabb2b7,2 BHK Apartment
+2,True,Independent Floor,Bangalore,2000,3,"12.918461,77.637533",Harikrishna Reddy,True,1.5 Cr,ACTIVE,380794,False,True,HSR Layout,2015-07-27T15:22:35Z,"12th Main Road, Near Kuttanadu Restaurant, Teachers Colony",7500,/in/buy/resale/page/380794-3-bhk-independent-floor-in-hsr-layout-for-rs-15000000,3 BHK,False,3,east,False,Teachers Colony,282999e8-39cd-4520-814d-a6aa0a393eaf,3 BHK Independent Floor
+2,True,Independent Floor,Bangalore,2000,3,"12.918461,77.637533",Harikrishna Reddy,True,1.5 Cr,ACTIVE,380802,False,True,HSR Layout,2015-07-27T15:24:48Z,"12th Main Road, Near Kuttanadu Restaurant, Teachers Colony",7500,/in/buy/resale/page/380802-3-bhk-independent-floor-in-hsr-layout-for-rs-15000000,3 BHK,False,3,east,False,Teachers Colony,282999e8-39cd-4520-814d-a6aa0a393eaf,3 BHK Independent Floor
+1,False,Independent House,Bangalore,3000,7,"12.908136,77.647608",Kumar,True,3.5 Cr,ACTIVE,2022401,,False,HSR Layout,2018-05-21T16:16:30Z,"Hsr Layout, Hsr Layout, Hsr Layout, Hsr Layout, , Bengaluru, Karnataka, India",11666,/in/buy/resale/page/2022401-5+-bhk-independent-house-in-hsr-layout-for-rs-35000000,5+ BHK,False,6,north-east,,Sector 2,58ce79d6-5ed3-4abc-a3bf-88f8f9824b57,5+ BHK Independent House
+2,True,Independent House,Bangalore,1300,3,"12.917624,77.63436",Senthilprabhu,False,75.0 Lacs,ACTIVE,1834958,False,False,HSR Layout,2018-01-16T02:21:35Z,"13th B Cross Road, Near Carmel Garden Public School, Teachers Colony",5769,/in/buy/resale/page/1834958-3-bhk-independent-house-in-hsr-layout-for-rs-7500000,3 BHK,False,3,north,False,Teachers Colony,67bd55c2-5364-48e4-8fcb-215f066c1a52,3 BHK Independent House
+2,True,Apartment,Bangalore,1050,2,"12.899278,77.655715",Manu,True,37.8 Lacs,ACTIVE,1276525,False,True,HSR Layout,2017-04-20T10:35:12Z,"7th Cross Road, Near Vibgyor High School - New Building, Reliable Residency Layout Phase 3",3600,/in/buy/resale/page/1276525-2-bhk-apartment-in-somasundarapalya-for-rs-3780000,2 BHK,False,2,north-east,False,Sector 1,78c59886-9033-4fc5-8133-45e840a5ba34,2 BHK Apartment
+1,True,Independent Floor,Bangalore,2100,3,"12.918775,77.63771",Suresh,True,1.6 Cr,ACTIVE,1406362,False,True,HSR Layout,2017-03-02T11:34:00Z,"13th Main Road, Near Devi Eye Hospital, 5th Sector",7619,/in/buy/resale/page/1406362-3-bhk-independent-floor-in-hsr-layout-for-rs-16000000,3 BHK,False,3,east,False,Teachers Colony,2d1313bc-769d-41ef-9a2e-d27d47968cef,3 BHK Independent Floor
+2,True,Apartment,Bangalore,1040,2,"12.916922,77.633986",manu,True,79.0 Lacs,ACTIVE,457655,False,True,HSR Layout,2015-08-20T05:14:04Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",7596,/in/buy/resale/page/457655-2-bhk-apartment-in-hsr-layout-for-rs-7900000,2 BHK,False,2,west,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+2,True,Apartment,Bangalore,1040,2,"12.916922,77.633986",manu,True,79.0 Lacs,ACTIVE,457101,False,True,HSR Layout,2015-08-20T05:24:46Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",7596,/in/buy/resale/page/457101-2-bhk-apartment-in-hsr-layout-for-rs-7900000,2 BHK,False,2,north,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+2,True,Apartment,Bangalore,1600,2,"12.900782,77.648263",Veeraesh,True,75.0 Lacs,ACTIVE,716047,True,True,HSR Layout,2016-01-02T15:09:16Z,"24th Main Road, Near Electric Switch Yard, Sector 7",4687,/in/buy/resale/page/716047-3-bhk-apartment-in-hsr-layout-for-rs-7500000,3 BHK,False,3,west,True,Sector 7,51007f49-8099-499b-a6f2-d42f679c8e6c,3 BHK Apartment
+2,True,Apartment,Bangalore,1360,2,"12.899403,77.655657",krreddy9897,True,60.0 Lacs,ACTIVE,1539326,True,False,HSR Layout,2017-04-22T22:30:51Z,"7th Cross Road, Near Shobha Daffodils South Gate, Hsr Layout",4411,/in/buy/resale/page/1539326-3-bhk-apartment-in-harlur-for-rs-6000000,3 BHK,False,3,west,False,Sector 1,d050fd30-1761-4055-8438-4e4919dd4bdc,3 BHK Apartment
+2,True,Apartment,Bangalore,1040,2,"12.898239,77.655482",krreddy9897,True,44.0 Lacs,ACTIVE,1538906,True,False,HSR Layout,2017-04-22T22:09:39Z,"7th Cross Road, Near Shobha Daffodils South Gate, Hsr Layout",4230,/in/buy/resale/page/1538906-2-bhk-apartment-in-somasundarapalya-for-rs-4400000,2 BHK,False,2,north,False,,d050fd30-1761-4055-8438-4e4919dd4bdc,2 BHK Apartment
+2,True,Apartment,Bangalore,1360,2,"12.899177,77.655518",krreddy9897,True,60.0 Lacs,ACTIVE,1537577,True,False,HSR Layout,2017-04-22T20:21:34Z,"7th Cross Road, Near Shobha Daffodils South Gate, Hsr Layout",4411,/in/buy/resale/page/1537577-3-bhk-apartment-in-somasundarapalya-for-rs-6000000,3 BHK,False,3,west,False,,d050fd30-1761-4055-8438-4e4919dd4bdc,3 BHK Apartment
+2,True,Apartment,Bangalore,1360,2,"12.899175,77.655519",krreddy9897,True,60.0 Lacs,ACTIVE,1536901,True,False,HSR Layout,2017-04-22T16:07:18Z,"Gurumurthy Swamy Temple Road, Near Vibgyor High School - New Building, Samasandra Palya",4411,/in/buy/resale/page/1536901-3-bhk-apartment-in-somasundarapalya-for-rs-6000000,3 BHK,False,3,west,False,,d050fd30-1761-4055-8438-4e4919dd4bdc,3 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,True,Apartment,Bangalore,1100,2,"12.917249,77.633591",manu,True,61.36 Lacs,ACTIVE,459701,False,True,HSR Layout,2015-08-21T06:17:27Z,"6th Main Road, Near Carmel Garden Public School, Teacher Colony",5578,/in/buy/resale/page/459701-2-bhk-apartment-in-hsr-layout-for-rs-6136000,2 BHK,False,2,north,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+1,True,Independent House,Bangalore,1600,3,"12.911359,77.62925",Proptiger,True,1.5 Cr,ACTIVE,1244711,False,False,HSR Layout,2017-12-08T11:25:05Z,"2nd Cross, Near Hdfc Bank Atm, Sector 6",9375,/in/buy/resale/page/1244711-3-bhk-independent-house-in-hsr-layout-for-rs-15000000,3 BHK,False,3,east,False,Sector 6,e880703a-6efa-4405-bd7d-58e80acd4e36,3 BHK Independent House
+1,True,Independent Floor,Bangalore,1350,2,"12.918869,77.637626",Suresh,True,95.0 Lacs,ACTIVE,1406450,False,True,HSR Layout,2017-03-02T14:32:53Z,"13th Main Road, Near Devi Eye Hospital, 5th Sector",7037,/in/buy/resale/page/1406450-2-bhk-independent-floor-in-hsr-layout-for-rs-9500000,2 BHK,False,2,east,False,Teachers Colony,2d1313bc-769d-41ef-9a2e-d27d47968cef,2 BHK Independent Floor
+2,False,Apartment,Bangalore,1474,3,"12.898208,77.655627",sunitha,True,76.0 Lacs,ACTIVE,1568836,True,False,HSR Layout,2017-05-04T18:59:47Z,"2nd Main Road, Near Vibgyor High School New Building, Reliable Residency Layout",5156,/in/buy/resale/page/1568836-3-bhk-apartment-in-somasundarapalya-for-rs-7600000,3 BHK,False,3,north,True,,d0693933-13c0-47e4-92f3-fdb32632d982,3 BHK Apartment
+1,True,Apartment,Bangalore,1800,3,"12.90947,77.639219",krishna,True,1.35 Cr,ACTIVE,1352361,True,True,HSR Layout,2017-01-31T19:01:02Z,"21st Cross Road, Near Hsr Layout Third Sector Park, 3rd Sector",7500,/in/buy/resale/page/1352361-3-bhk-apartment-in-hsr-layout-for-rs-13500000,3 BHK,False,3,east,False,Sector 3,51050999-f97b-4b7a-b6c6-46a26eec833a,3 BHK Apartment
+2,True,Apartment,Bangalore,1280,2,"12.916956,77.633973",manu,True,75.52 Lacs,ACTIVE,459571,False,True,HSR Layout,2015-08-21T12:36:25Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/459571-3-bhk-apartment-in-hsr-layout-for-rs-7552000,3 BHK,False,3,east,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,3 BHK Apartment
+2,False,Apartment,Bangalore,1016,2,"12.898186,77.655489",sunitha,True,48.0 Lacs,ACTIVE,1568815,True,False,HSR Layout,2017-05-04T19:16:09Z,"2nd Main Road, Near Vibgyor High School New Building, Reliable Residency Layout",4724,/in/buy/resale/page/1568815-2-bhk-apartment-in-somasundarapalya-for-rs-4800000,2 BHK,False,2,east,True,,d0693933-13c0-47e4-92f3-fdb32632d982,2 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,True,Apartment,Bangalore,1310,3,"12.916922,77.633986",manu,True,77.29 Lacs,ACTIVE,457580,False,True,HSR Layout,2015-08-20T05:15:31Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/457580-3-bhk-apartment-in-hsr-layout-for-rs-7729000,3 BHK,False,3,east,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,3 BHK Apartment
+2,True,Apartment,Bangalore,1060,2,"12.916956,77.633973",manu,True,62.54 Lacs,ACTIVE,459698,False,True,HSR Layout,2015-08-21T12:36:41Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/459698-2-bhk-apartment-in-hsr-layout-for-rs-6254000,2 BHK,False,2,west,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+2,True,Apartment,Bangalore,1760,3,"12.907003,77.632942",Kanishka,True,1.6 Cr,ACTIVE,1356697,True,True,HSR Layout,2017-02-02T18:37:35Z,"27th Cross Road, Near Apollo Pharma, Sector 7",9090,/in/buy/resale/page/1356697-3-bhk-apartment-in-hsr-layout-for-rs-16000000,3 BHK,True,3,east,True,Sector 7,a508cfb6-e043-4c8e-b2a9-bb7a8cad42a9,3 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,True,Apartment,Bangalore,1145,2,"12.897037,77.655073",Murali Govardhanan,True,45.8 Lacs,ACTIVE,1332757,False,True,HSR Layout,2017-01-20T17:08:12Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1332757-2-bhk-apartment-in-somasundarapalya-for-rs-4580000,2 BHK,False,2,north,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,2 BHK Apartment
+2,True,Apartment,Bangalore,1030,2,"12.916922,77.633986",manu,True,60.77 Lacs,ACTIVE,457440,False,True,HSR Layout,2015-08-20T05:18:31Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/457440-2-bhk-apartment-in-hsr-layout-for-rs-6077000,2 BHK,False,2,east,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+2,True,Apartment,Bangalore,1055,2,"12.916956,77.633973",manu,True,62.24 Lacs,ACTIVE,459585,False,True,HSR Layout,2015-08-21T12:36:36Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5899,/in/buy/resale/page/459585-2-bhk-apartment-in-hsr-layout-for-rs-6224000,2 BHK,False,2,west,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+2,True,Apartment,Bangalore,1030,2,"12.916922,77.633986",manu,True,60.77 Lacs,ACTIVE,457703,False,True,HSR Layout,2015-08-20T05:12:38Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/457703-2-bhk-apartment-in-hsr-layout-for-rs-6077000,2 BHK,False,2,north,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+2,True,Apartment,Bangalore,1060,2,"12.916922,77.633986",manu,True,62.54 Lacs,ACTIVE,457172,False,True,HSR Layout,2015-08-20T05:23:17Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/457172-2-bhk-apartment-in-hsr-layout-for-rs-6254000,2 BHK,False,2,west,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+1,True,Apartment,Bangalore,1145,2,"12.897037,77.655073",Murali Govardhanan,True,45.8 Lacs,ACTIVE,1336103,False,True,HSR Layout,2017-01-21T19:45:42Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1336103-2-bhk-apartment-in-somasundarapalya-for-rs-4580000,2 BHK,False,2,east,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,2 BHK Apartment
+1,True,Apartment,Bangalore,1145,2,"12.897037,77.655073",Murali Govardhanan,True,45.8 Lacs,ACTIVE,1332729,False,True,HSR Layout,2017-01-20T17:00:15Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1332729-2-bhk-apartment-in-somasundarapalya-for-rs-4580000,2 BHK,False,2,north,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,2 BHK Apartment
+1,True,Apartment,Bangalore,1400,3,"12.897037,77.655073",Murali Govardhanan,True,56.0 Lacs,ACTIVE,1334015,False,True,HSR Layout,2017-01-20T20:54:41Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1334015-3-bhk-apartment-in-somasundarapalya-for-rs-5600000,3 BHK,False,3,east,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,3 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,True,Apartment,Bangalore,1040,2,"12.916922,77.633986",manu,True,61.36 Lacs,ACTIVE,456601,False,True,HSR Layout,2015-08-20T05:30:15Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/456601-2-bhk-apartment-in-hsr-layout-for-rs-6136000,2 BHK,False,2,west,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+2,True,Apartment,Bangalore,1040,2,"12.916956,77.633973",manu,True,61.36 Lacs,ACTIVE,459576,False,True,HSR Layout,2015-08-21T12:36:31Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/459576-2-bhk-apartment-in-hsr-layout-for-rs-6136000,2 BHK,False,2,north,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+2,True,Apartment,Bangalore,1040,2,"12.916922,77.633986",manu,True,61.36 Lacs,ACTIVE,457023,False,True,HSR Layout,2015-08-20T05:27:44Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/457023-2-bhk-apartment-in-hsr-layout-for-rs-6136000,2 BHK,False,2,north,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+1,True,Apartment,Bangalore,1145,2,"12.897037,77.655073",Murali Govardhanan,True,45.8 Lacs,ACTIVE,1336377,False,True,HSR Layout,2017-01-21T20:32:50Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1336377-2-bhk-apartment-in-somasundarapalya-for-rs-4580000,2 BHK,False,2,west,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,2 BHK Apartment
+1,True,Apartment,Bangalore,1145,2,"12.897037,77.655073",Murali Govardhanan,True,45.8 Lacs,ACTIVE,1333074,False,True,HSR Layout,2017-01-20T18:11:58Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1333074-2-bhk-apartment-in-somasundarapalya-for-rs-4580000,2 BHK,False,2,north,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,2 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,True,Apartment,Bangalore,1250,3,"12.916922,77.633986",manu,True,73.75 Lacs,ACTIVE,457213,False,True,HSR Layout,2015-08-20T05:22:06Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/457213-3-bhk-apartment-in-hsr-layout-for-rs-7375000,3 BHK,False,3,east,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,3 BHK Apartment
+2,True,Apartment,Bangalore,1276,2,"12.916922,77.633986",manu,True,75.28 Lacs,ACTIVE,457521,False,True,HSR Layout,2015-08-20T05:17:00Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5899,/in/buy/resale/page/457521-3-bhk-apartment-in-hsr-layout-for-rs-7528000,3 BHK,False,3,east,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,3 BHK Apartment
+1,True,Independent Floor,Bangalore,2100,3,"12.918649,77.637675",Suresh,True,1.6 Cr,ACTIVE,1404216,False,True,HSR Layout,2017-03-01T11:32:19Z,"13th Main Road, Near Devi Eye Hospital, 5th Sector",7619,/in/buy/resale/page/1404216-3-bhk-independent-floor-in-hsr-layout-for-rs-16000000,3 BHK,False,3,east,False,Teachers Colony,2d1313bc-769d-41ef-9a2e-d27d47968cef,3 BHK Independent Floor
+2,True,Apartment,Bangalore,1120,2,"12.897954,77.655715",sunitha,True,53.0 Lacs,ACTIVE,1568750,True,False,HSR Layout,2017-05-04T19:33:49Z,"2nd Main Road, Near Vibgyor High School New Building, Reliable Residency Layout",4732,/in/buy/resale/page/1568750-2-bhk-apartment-in-somasundarapalya-for-rs-5300000,2 BHK,False,2,north,True,,d0693933-13c0-47e4-92f3-fdb32632d982,2 BHK Apartment
+1,True,Apartment,Bangalore,1400,3,"12.897037,77.655073",Murali Govardhanan,True,56.0 Lacs,ACTIVE,1336440,False,True,HSR Layout,2017-01-21T20:47:17Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1336440-3-bhk-apartment-in-somasundarapalya-for-rs-5600000,3 BHK,False,3,east,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,3 BHK Apartment
+1,True,Apartment,Bangalore,1145,2,"12.897037,77.655073",Murali Govardhanan,True,45.8 Lacs,ACTIVE,1332706,False,True,HSR Layout,2017-01-20T17:46:41Z,"2nd Main Road, Near Children's Park, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1332706-2-bhk-apartment-in-somasundarapalya-for-rs-4580000,2 BHK,False,2,north,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,2 BHK Apartment
+1,True,Apartment,Bangalore,1145,2,"12.897037,77.655073",Murali Govardhanan,True,45.8 Lacs,ACTIVE,1332787,False,True,HSR Layout,2017-01-20T17:18:36Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1332787-2-bhk-apartment-in-somasundarapalya-for-rs-4580000,2 BHK,False,2,east,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,2 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,True,Apartment,Bangalore,1255,3,"12.908588,77.662995",Mallikarjung,True,87.0 Lacs,ACTIVE,674681,True,True,HSR Layout,2015-11-25T12:25:12Z,"Haralur Road, Near Maruthi Showroom, Sector 1",6932,/in/buy/resale/page/674681-3-bhk-apartment-in-hsr-layout-for-rs-8700000,3 BHK,True,3,south-east,True,Sector 1,4c3b37b5-1b9b-457e-b64e-11c83e9e06fb,3 BHK Apartment
+1,True,Apartment,Bangalore,1480,3,"12.907473,77.649685",Sunil Kumar,True,88.0 Lacs,ACTIVE,1420390,False,True,HSR Layout,2017-03-09T15:02:17Z,"24th Main Road, Near Food Palace Super Market, Sector 2 Hsr Layout",5945,/in/buy/resale/page/1420390-3-bhk-apartment-in-hsr-layout-for-rs-8800000,3 BHK,False,3,east,False,BDA Layout,7ba2e80c-7b66-42aa-9f01-a83468d0a2c9,3 BHK Apartment
+1,True,Apartment,Bangalore,1720,2,"12.91131,77.650147",Sunil Kumar,True,1.35 Cr,ACTIVE,1420440,False,True,HSR Layout,2017-03-09T15:25:33Z,"18th Cross Road, Near Faaso''s, 2nd Sector",7848,/in/buy/resale/page/1420440-3-bhk-apartment-in-hsr-layout-for-rs-13500000,3 BHK,False,3,east,False,Sector 2,7ba2e80c-7b66-42aa-9f01-a83468d0a2c9,3 BHK Apartment
+1,True,Apartment,Bangalore,5760,5,"12.91652,77.648861",Anil Kumar,True,6.8 Cr,ACTIVE,1348384,True,True,HSR Layout,2017-01-28T21:43:03Z,"24th Main Road, Near Cambridge Public School, Sector 1",11805,/in/buy/resale/page/1348384-4-bhk-apartment-in-hsr-layout-for-rs-68000000,4 BHK,False,4,east,True,Sector 1,28ea64a4-303d-47f1-8208-922cddf17ca5,4 BHK Apartment
+2,True,Apartment,Bangalore,1700,3,"12.90681,77.645023",venktesh,True,1.7 Cr,ACTIVE,365053,True,True,HSR Layout,2015-07-24T09:13:32Z,"19th Main Road, Near Grand Supermarket, Garden Layout",10000,/in/buy/resale/page/365053-3-bhk-apartment-in-hsr-layout-for-rs-17000000,3 BHK,False,3,south,True,Sector 2,619fecda-e796-4f56-9ef6-fd93c58ec0a2,3 BHK Apartment
+2,True,Apartment,Bangalore,1215,2,"12.901738,77.644545",Rajeev,True,57.5 Lacs,ACTIVE,155425,False,False,HSR Layout,2015-03-04T16:29:16Z,"Manganampallya Road, Near Labs Ujala Factory,",4732,/in/buy/resale/page/155425-2.5-bhk-apartment-in-hsr-layout-for-rs-5750000,2.5 BHK,False,3,north,False,Hosapalya,3192f066-3490-425e-9fba-a306d2059846,2.5 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,True,Apartment,Bangalore,1040,2,"12.916922,77.633986",manu,True,61.36 Lacs,ACTIVE,457062,False,True,HSR Layout,2015-08-20T05:26:30Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/457062-2-bhk-apartment-in-hsr-layout-for-rs-6136000,2 BHK,False,2,east,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+2,True,Apartment,Bangalore,1040,2,"12.916922,77.633986",manu,True,61.36 Lacs,ACTIVE,456928,False,True,HSR Layout,2015-08-20T05:29:03Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/456928-2-bhk-apartment-in-hsr-layout-for-rs-6136000,2 BHK,False,2,north,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+2,True,Apartment,Bangalore,1270,3,"12.916922,77.633986",manu,True,74.93 Lacs,ACTIVE,457356,False,True,HSR Layout,2015-08-20T05:19:52Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/457356-3-bhk-apartment-in-hsr-layout-for-rs-7493000,3 BHK,False,3,east,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,3 BHK Apartment
+1,True,Apartment,Bangalore,1145,2,"12.897037,77.655073",Murali Govardhanan,True,45.8 Lacs,ACTIVE,1336313,False,True,HSR Layout,2017-01-21T20:22:07Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1336313-2-bhk-apartment-in-somasundarapalya-for-rs-4580000,2 BHK,False,2,east,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,2 BHK Apartment
+1,True,Apartment,Bangalore,1145,2,"12.897037,77.655073",Murali Govardhanan,True,45.8 Lacs,ACTIVE,1336265,False,True,HSR Layout,2017-01-21T20:12:52Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1336265-2-bhk-apartment-in-somasundarapalya-for-rs-4580000,2 BHK,False,2,north,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,2 BHK Apartment
+1,True,Apartment,Bangalore,1145,2,"12.897037,77.655073",Murali Govardhanan,True,45.8 Lacs,ACTIVE,1336209,False,True,HSR Layout,2017-01-21T20:05:16Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1336209-2-bhk-apartment-in-somasundarapalya-for-rs-4580000,2 BHK,False,2,north,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,2 BHK Apartment
+1,True,Apartment,Bangalore,1145,2,"12.897037,77.655073",Murali Govardhanan,True,45.8 Lacs,ACTIVE,1336160,False,True,HSR Layout,2017-01-21T19:54:59Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1336160-2-bhk-apartment-in-somasundarapalya-for-rs-4580000,2 BHK,False,2,west,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,2 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,True,Apartment,Bangalore,1145,2,"12.897037,77.655073",Murali Govardhanan,True,45.8 Lacs,ACTIVE,1332840,False,True,HSR Layout,2017-01-20T17:56:20Z,"2nd Main Road, Near Children's Park, Reliaable Tranquil Layout, Reliable Residency Layout Phase 3",4000,/in/buy/resale/page/1332840-2-bhk-apartment-in-somasundarapalya-for-rs-4580000,2 BHK,False,2,west,False,,bb2d6478-1175-4db0-9e30-fd8a3d5d0bfe,2 BHK Apartment
+2,True,Apartment,Bangalore,1100,2,"12.917089,77.633704",manu,True,61.36 Lacs,ACTIVE,459683,False,True,HSR Layout,2015-08-21T05:16:26Z,"6th Main Road, Near Carmel Garden Public School, 1st Block",5578,/in/buy/resale/page/459683-2-bhk-apartment-in-hsr-layout-for-rs-6136000,2 BHK,False,2,west,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+2,True,Apartment,Bangalore,1040,2,"12.916922,77.633986",manu,True,61.36 Lacs,ACTIVE,457778,False,True,HSR Layout,2015-08-20T05:11:17Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/457778-2-bhk-apartment-in-hsr-layout-for-rs-6136000,2 BHK,False,2,north,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+2,True,Apartment,Bangalore,1020,2,"12.916922,77.633986",manu,True,60.18 Lacs,ACTIVE,457271,False,True,HSR Layout,2015-08-20T05:20:57Z,"6th Main Road, Near Carmel Garden Public School, Teachers Colony",5900,/in/buy/resale/page/457271-2-bhk-apartment-in-hsr-layout-for-rs-6018000,2 BHK,False,2,west,False,Teachers Colony,0e120f54-55c0-4a2e-84aa-4f276492052b,2 BHK Apartment
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,False,Apartment,Bangalore,1750,3,"12.906697,77.632479",Mr.abhishek ,True,1.45 Cr,ACTIVE,1499935,True,False,HSR Layout,2017-04-10T17:39:39Z,"27th Cross Road, Near Ramakrishna College, Sector 7",8285,/in/buy/resale/page/1499935-3-bhk-apartment-in-hsr-layout-for-rs-14500000,3 BHK,False,3,south-east,True,Rajiv Gandhi Nagar,dea7482e-13aa-4aeb-9d9d-fe068a570f7c,3 BHK Apartment
+2,False,Apartment,Bangalore,1255,3,"12.909319,77.662695",Vishal,True,1.1 Cr,ACTIVE,1500313,True,False,HSR Layout,2017-04-10T18:03:01Z,"Haralur Road, Near Vivero International Preschool, Sector 1",8764,/in/buy/resale/page/1500313-3-bhk-apartment-in-hsr-layout-for-rs-11000000,3 BHK,False,3,north,True,Sector 1,a78306b2-7b32-43d1-96c0-081434dcd85e,3 BHK Apartment
+,,,,,,,,,,,,,,,,,7826,,,,,,,,,
+,,,,,,,,,,,,,,,,,17214,,,,,,,,,
+,,,,,,,,,,,,,,,,,3800,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,6000,,,,,,,,,
+,,,,,,,,,,,,,,,,,4600,,,,,,,,,
+,,,,,,,,,,,,,,,,,3300,,,,,,,,,
+,,,,,,,,,,,,,,,,,4500,,,,,,,,,
+,,,,,,,,,,,,,,,,,5476,,,,,,,,,
+,,,,,,,,,,,,,,,,,6035,,,,,,,,,
+,,,,,,,,,,,,,,,,,3513,,,,,,,,,
+,,,,,,,,,,,,,,,,,5605,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,4500,,,,,,,,,
+,,,,,,,,,,,,,,,,,6088,,,,,,,,,
+,,,,,,,,,,,,,,,,,11700,,,,,,,,,
+,,,,,,,,,,,,,,,,,3499,,,,,,,,,
+,,,,,,,,,,,,,,,,,3599,,,,,,,,,
+,,,,,,,,,,,,,,,,,3890,,,,,,,,,
+,,,,,,,,,,,,,,,,,5000,,,,,,,,,
+,,,,,,,,,,,,,,,,,5334,,,,,,,,,
+,,,,,,,,,,,,,,,,,4050,,,,,,,,,
